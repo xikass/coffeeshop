@@ -1,0 +1,5 @@
+https://fsdn-part3.us.auth0.com/authorize?
+  audience=image&
+  response_type=token&
+  client_id=394PuXfWjvs4VNHjYLGZxwYxPv9dDn3o&
+  redirect_uri=https://127.0.0.1:8080/login-results
