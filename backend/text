@@ -1,5 +1,5 @@
 https://fsdn-part3.us.auth0.com/authorize?
-  audience=image&
+  audience=coffeeshop&
   response_type=token&
-  client_id=394PuXfWjvs4VNHjYLGZxwYxPv9dDn3o&
-  redirect_uri=https://127.0.0.1:8080/login-results
+  client_id=zMtJQ2dDR5RS4jTlY0WwamFIuQrWP27U&
+  redirect_uri=https://127.0.0.1:8080/login-result
