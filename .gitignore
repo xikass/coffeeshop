@@ -1,6 +1,8 @@
-coffeeShop_venv/
+#add venv to gitignore 2nd review
+venv/
 .ipynb_checkpoints/
 .vscode/
+#pychace
 __pycache__/
 test.db
 *.ipynb
