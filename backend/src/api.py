@@ -34,7 +34,7 @@ def get_drinks():
     drinks = [drink.short() for drink in drinks]
     return jsonify({
         'success': True,
-        'drink': drinks
+        'drinks': drinks
     }), 200
 
 
