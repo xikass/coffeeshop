@@ -152,14 +152,8 @@ temp/
 *.DS_Store
 *.log
 *.swp
-#add venv to gitignore 2nd review
-venv/
-.ipynb_checkpoints/
-.vscode/
-#pychace
-__pycache__/
-test.db
-*.ipynb
+# End ofhttps://github.com/diegonetto/generator-ionic/blob/master/.gitignore
+
 # OS generated files #
 ######################
 .DS_Store
